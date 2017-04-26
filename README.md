@@ -19,7 +19,7 @@ The dataset in this project is called the `MovieLens dataset` which has been col
 #### Engine
 - **case 1**: We first use a simple Popularity Model, the algorithm will recommend the most popular(with the highest ratings) one to the users.
 
-- **case 2**: The second case we use the item similarity for the recommendation, here are four similairty methods that are often used, `Jaccard Similarity`, `Cosine Similarity`, `Euclide Similarity`, `Pearson Similarity`, we use the `Pearson Similairty` for the case.
+- **case 2**: The second case we use the item [similarity](http://mines.humanoriented.com/classes/2010/fall/csci568/portfolio_exports/lguo/similarity.html) for the recommendation, here are four similairty methods that are often used, `Jaccard Similarity`, `Cosine Similarity`, `Euclidean Similarity`, `Pearson Similarity`, we use the `Pearson Similairty` for the case.
 
 #### Evaluation
 - **Recall**:
